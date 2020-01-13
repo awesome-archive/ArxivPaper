@@ -4,6 +4,7 @@
 
 本项目可以设置定时爬取知乎"arXiv每日论文速递"专栏，根据给定的主题和关键字筛选结果，并将结果存入到excel表格中。
 
+说明：爬取知乎这部分参考了https://github.com/Milloyy/ZhihuSpider
 
 
 # 1. 环境
